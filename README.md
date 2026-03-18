@@ -7,5 +7,5 @@ In the real world, especially under high pressure, this is completely false. Rea
 Problem give to solve:- 
 The goal of this project is to simulate how real gases behave under high pressure by modeling the microscopic interactions between individual molecules. The project aims in taking raw, non-linear physical parameters and build an algorithmic solver for an unsolvable equation using Python and Monte Carlo algorithms and produce data (like molar volume).
 
-The Roadblock to solve:- The mathematical formula that describes the correction coefficent cannot be solved by conventional mathematical operations. It creates a curve so complex that standard calculus cannot calculate the area underneath it. We cannot solve this on paper and we need a numerical model.
+The Roadblock to solve:- The mathematical formula that describes the correction coefficent cannot be solved by conventional mathematical operations. We cannot solve this on paper due to a complex fraction calculated inside an exponential function and we need a numerical model.
 
